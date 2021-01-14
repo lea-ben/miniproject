@@ -1,0 +1,45 @@
+
+.navbar-light {color: black;
+text-decoration: blanchedalmond;}
+
+.ziv-the-best {width: 100%;}
+
+.updown {margin :10% ; 
+padding: 5%;}
+
+.black-bg-light {background-color :black !important ;
+    color :white;
+   opacity: 100%;}
+
+.nav-white-color {color: white !important;}
+
+.jumbotron { background-color:darkgrey;
+padding: 8%;
+margin: 8%;}
+
+.heading1 {
+    margin: 5%;
+    margin-right: 80%;
+    text-align: center;
+
+}
+
+.textok {padding: 20%;
+margin: 1%;}
+.btn-md {background-color: green !important ;
+height: 30px;
+text-align: center;
+margin: 30%;
+opacity: 100%;
+font-weight: 100px;}
+
+.text123 { 
+
+    text-align: center;
+}
+
+.button-one { margin: -1%; padding: 10%; }
+
+.button-two { margin: -1%; padding: 10%; }
+
+.button-three { margin: -1%; padding: 10%; }
